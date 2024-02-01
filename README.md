@@ -1,5 +1,5 @@
 # Mario Jump - Jogo de Estudo em HTML, CSS e JavaScript
-
+![Screenshot do Mario Jump](mario-jump.PNG)
 
 ## Como Jogar
 
